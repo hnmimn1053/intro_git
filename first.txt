@@ -1,2 +1,2 @@
 Gitの練習開始!
-test1
+test2
