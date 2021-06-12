@@ -1,2 +1,4 @@
 Gitの練習開始!
-test2
+test
+git add
+git commit
